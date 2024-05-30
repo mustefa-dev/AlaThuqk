@@ -1,0 +1,852 @@
+{
+  "data": [
+    {
+      "phone": 0,
+      "userId": "de797047-acbf-4d42-9d74-6b064afef397",
+      "canShare": true,
+      "address": {
+        "governorate": null,
+        "city": "string",
+        "state": "string",
+        "phone": 0,
+        "latitude": 0,
+        "longitude": 0,
+        "id": "fa944596-dff1-4baa-8e4b-df37821a5bd4",
+        "creationDate": "2023-12-19T13:13:57.424441Z"
+      },
+      "note": "string",
+      "quantity": 0,
+      "orderItems": [
+        {
+          "finalImage": "string",
+          "quantity": 1,
+          "productId": null,
+          "color": "string",
+          "colorId": "50a65885-853a-42c0-a4b8-2b6374bc5b5d",
+          "size": null,
+          "sizeId": null,
+          "product": null,
+          "printComponents": [
+            {
+              "name": "string",
+              "type": 0,
+              "value": "string",
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "id": "5140ef30-1797-4709-9dad-95983a4af066",
+              "creationDate": "2023-12-20T05:49:40.805593Z"
+            }
+          ],
+          "template": {
+            "id": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5",
+            "name": "string",
+            "description": "string",
+            "images": [
+              "string"
+            ],
+            "categoryId": "80ea4ddb-ca23-474c-810d-feba575af8f5",
+            "price": 15000,
+            "likes": 0,
+            "isLiked": false,
+            "categoryName": "string",
+            "sizes": [
+              {
+                "sizeText": "string",
+                "productId": null,
+                "colors": [
+                  {
+                    "id": "50a65885-853a-42c0-a4b8-2b6374bc5b5d",
+                    "colorText": "string",
+                    "sizeId": "8238506d-9efc-46a1-b825-5bdf525bedc0",
+                    "frontImage": "string",
+                    "quantity": 10,
+                    "creationDate": "2023-12-19T14:07:35.528156Z"
+                  }
+                ],
+                "id": "8238506d-9efc-46a1-b825-5bdf525bedc0",
+                "creationDate": "2023-12-19T14:07:35.519875Z"
+              }
+            ],
+            "quantity": 10,
+            "components": [
+              {
+                "name": null,
+                "value": null,
+                "x": 0,
+                "y": 0,
+                "z": 0,
+                "templateId": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5"
+              }
+            ],
+            "deleted": false,
+            "creationDate": "2023-12-19T14:07:35.518735Z"
+          },
+          "templateId": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5",
+          "id": "1e9418da-2dfb-4997-85be-bc20289524a6",
+          "creationDate": "2023-12-20T05:49:40.805591Z"
+        }
+      ],
+      "status": 0,
+      "price": 15000,
+      "deliveryPrice": 5000,
+      "totalPrice": 20000,
+      "id": "0229b128-a89b-45f7-bf5a-0b50a696ad6e",
+      "creationDate": "2023-12-20T05:49:40.805589Z"
+    },
+    {
+      "phone": 0,
+      "userId": "de797047-acbf-4d42-9d74-6b064afef397",
+      "canShare": true,
+      "address": {
+        "governorate": null,
+        "city": "string",
+        "state": "string",
+        "phone": 0,
+        "latitude": 0,
+        "longitude": 0,
+        "id": "fa944596-dff1-4baa-8e4b-df37821a5bd4",
+        "creationDate": "2023-12-19T13:13:57.424441Z"
+      },
+      "note": "string",
+      "quantity": 0,
+      "orderItems": [
+        {
+          "finalImage": null,
+          "quantity": 1,
+          "productId": null,
+          "color": "string",
+          "colorId": "50a65885-853a-42c0-a4b8-2b6374bc5b5d",
+          "size": null,
+          "sizeId": null,
+          "product": null,
+          "printComponents": [],
+          "template": {
+            "id": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5",
+            "name": "string",
+            "description": "string",
+            "images": [
+              "string"
+            ],
+            "categoryId": "80ea4ddb-ca23-474c-810d-feba575af8f5",
+            "price": 15000,
+            "likes": 0,
+            "isLiked": false,
+            "categoryName": "string",
+            "sizes": [
+              {
+                "sizeText": "string",
+                "productId": null,
+                "colors": [
+                  {
+                    "id": "50a65885-853a-42c0-a4b8-2b6374bc5b5d",
+                    "colorText": "string",
+                    "sizeId": "8238506d-9efc-46a1-b825-5bdf525bedc0",
+                    "frontImage": "string",
+                    "quantity": 10,
+                    "creationDate": "2023-12-19T14:07:35.528156Z"
+                  }
+                ],
+                "id": "8238506d-9efc-46a1-b825-5bdf525bedc0",
+                "creationDate": "2023-12-19T14:07:35.519875Z"
+              }
+            ],
+            "quantity": 10,
+            "components": [
+              {
+                "name": null,
+                "value": null,
+                "x": 0,
+                "y": 0,
+                "z": 0,
+                "templateId": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5"
+              }
+            ],
+            "deleted": false,
+            "creationDate": "2023-12-19T14:07:35.518735Z"
+          },
+          "templateId": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5",
+          "id": "5979c83a-019b-4950-ab5e-99628b409584",
+          "creationDate": "2023-12-19T14:46:19.639342Z"
+        }
+      ],
+      "status": 0,
+      "price": 15000,
+      "deliveryPrice": 5000,
+      "totalPrice": 20000,
+      "id": "048f12a5-91d3-4c36-8ed8-9c234fb972fb",
+      "creationDate": "2023-12-19T14:46:19.638844Z"
+    },
+    {
+      "phone": 0,
+      "userId": "de797047-acbf-4d42-9d74-6b064afef397",
+      "canShare": true,
+      "address": {
+        "governorate": null,
+        "city": "string",
+        "state": "string",
+        "phone": 0,
+        "latitude": 0,
+        "longitude": 0,
+        "id": "fa944596-dff1-4baa-8e4b-df37821a5bd4",
+        "creationDate": "2023-12-19T13:13:57.424441Z"
+      },
+      "note": "string",
+      "quantity": 0,
+      "orderItems": [
+        {
+          "finalImage": null,
+          "quantity": 1,
+          "productId": null,
+          "color": "string",
+          "colorId": "50a65885-853a-42c0-a4b8-2b6374bc5b5d",
+          "size": null,
+          "sizeId": null,
+          "product": null,
+          "printComponents": [],
+          "template": {
+            "id": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5",
+            "name": "string",
+            "description": "string",
+            "images": [
+              "string"
+            ],
+            "categoryId": "80ea4ddb-ca23-474c-810d-feba575af8f5",
+            "price": 15000,
+            "likes": 0,
+            "isLiked": false,
+            "categoryName": "string",
+            "sizes": [
+              {
+                "sizeText": "string",
+                "productId": null,
+                "colors": [
+                  {
+                    "id": "50a65885-853a-42c0-a4b8-2b6374bc5b5d",
+                    "colorText": "string",
+                    "sizeId": "8238506d-9efc-46a1-b825-5bdf525bedc0",
+                    "frontImage": "string",
+                    "quantity": 10,
+                    "creationDate": "2023-12-19T14:07:35.528156Z"
+                  }
+                ],
+                "id": "8238506d-9efc-46a1-b825-5bdf525bedc0",
+                "creationDate": "2023-12-19T14:07:35.519875Z"
+              }
+            ],
+            "quantity": 10,
+            "components": [
+              {
+                "name": null,
+                "value": null,
+                "x": 0,
+                "y": 0,
+                "z": 0,
+                "templateId": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5"
+              }
+            ],
+            "deleted": false,
+            "creationDate": "2023-12-19T14:07:35.518735Z"
+          },
+          "templateId": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5",
+          "id": "99d5d8a0-dfaa-4bc2-96aa-a3c52dc188eb",
+          "creationDate": "2023-12-19T14:40:55.822075Z"
+        }
+      ],
+      "status": 0,
+      "price": 15000,
+      "deliveryPrice": 5000,
+      "totalPrice": 20000,
+      "id": "e1911848-3544-4fea-83fe-a9f135eb289f",
+      "creationDate": "2023-12-19T14:40:55.821568Z"
+    },
+    {
+      "phone": 0,
+      "userId": "de797047-acbf-4d42-9d74-6b064afef397",
+      "canShare": true,
+      "address": {
+        "governorate": null,
+        "city": "string",
+        "state": "string",
+        "phone": 0,
+        "latitude": 0,
+        "longitude": 0,
+        "id": "fa944596-dff1-4baa-8e4b-df37821a5bd4",
+        "creationDate": "2023-12-19T13:13:57.424441Z"
+      },
+      "note": "string",
+      "quantity": 0,
+      "orderItems": [
+        {
+          "finalImage": null,
+          "quantity": 1,
+          "productId": null,
+          "color": "string",
+          "colorId": "50a65885-853a-42c0-a4b8-2b6374bc5b5d",
+          "size": null,
+          "sizeId": null,
+          "product": null,
+          "printComponents": [],
+          "template": {
+            "id": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5",
+            "name": "string",
+            "description": "string",
+            "images": [
+              "string"
+            ],
+            "categoryId": "80ea4ddb-ca23-474c-810d-feba575af8f5",
+            "price": 15000,
+            "likes": 0,
+            "isLiked": false,
+            "categoryName": "string",
+            "sizes": [
+              {
+                "sizeText": "string",
+                "productId": null,
+                "colors": [
+                  {
+                    "id": "50a65885-853a-42c0-a4b8-2b6374bc5b5d",
+                    "colorText": "string",
+                    "sizeId": "8238506d-9efc-46a1-b825-5bdf525bedc0",
+                    "frontImage": "string",
+                    "quantity": 10,
+                    "creationDate": "2023-12-19T14:07:35.528156Z"
+                  }
+                ],
+                "id": "8238506d-9efc-46a1-b825-5bdf525bedc0",
+                "creationDate": "2023-12-19T14:07:35.519875Z"
+              }
+            ],
+            "quantity": 10,
+            "components": [
+              {
+                "name": null,
+                "value": null,
+                "x": 0,
+                "y": 0,
+                "z": 0,
+                "templateId": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5"
+              }
+            ],
+            "deleted": false,
+            "creationDate": "2023-12-19T14:07:35.518735Z"
+          },
+          "templateId": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5",
+          "id": "65588b94-7e39-40ec-8633-cd0af1e58614",
+          "creationDate": "2023-12-19T14:39:41.32757Z"
+        }
+      ],
+      "status": 0,
+      "price": 15000,
+      "deliveryPrice": 5000,
+      "totalPrice": 20000,
+      "id": "8979fbb6-ca04-4bae-8fd3-ae63d2331eb7",
+      "creationDate": "2023-12-19T14:39:41.327046Z"
+    },
+    {
+      "phone": 0,
+      "userId": "de797047-acbf-4d42-9d74-6b064afef397",
+      "canShare": true,
+      "address": {
+        "governorate": null,
+        "city": "string",
+        "state": "string",
+        "phone": 0,
+        "latitude": 0,
+        "longitude": 0,
+        "id": "fa944596-dff1-4baa-8e4b-df37821a5bd4",
+        "creationDate": "2023-12-19T13:13:57.424441Z"
+      },
+      "note": "string",
+      "quantity": 0,
+      "orderItems": [
+        {
+          "finalImage": null,
+          "quantity": 1,
+          "productId": null,
+          "color": "string",
+          "colorId": "50a65885-853a-42c0-a4b8-2b6374bc5b5d",
+          "size": null,
+          "sizeId": null,
+          "product": null,
+          "printComponents": [],
+          "template": {
+            "id": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5",
+            "name": "string",
+            "description": "string",
+            "images": [
+              "string"
+            ],
+            "categoryId": "80ea4ddb-ca23-474c-810d-feba575af8f5",
+            "price": 15000,
+            "likes": 0,
+            "isLiked": false,
+            "categoryName": "string",
+            "sizes": [
+              {
+                "sizeText": "string",
+                "productId": null,
+                "colors": [
+                  {
+                    "id": "50a65885-853a-42c0-a4b8-2b6374bc5b5d",
+                    "colorText": "string",
+                    "sizeId": "8238506d-9efc-46a1-b825-5bdf525bedc0",
+                    "frontImage": "string",
+                    "quantity": 10,
+                    "creationDate": "2023-12-19T14:07:35.528156Z"
+                  }
+                ],
+                "id": "8238506d-9efc-46a1-b825-5bdf525bedc0",
+                "creationDate": "2023-12-19T14:07:35.519875Z"
+              }
+            ],
+            "quantity": 10,
+            "components": [
+              {
+                "name": null,
+                "value": null,
+                "x": 0,
+                "y": 0,
+                "z": 0,
+                "templateId": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5"
+              }
+            ],
+            "deleted": false,
+            "creationDate": "2023-12-19T14:07:35.518735Z"
+          },
+          "templateId": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5",
+          "id": "a4af0a2f-ed2d-4c84-8421-0afe4ee0a811",
+          "creationDate": "2023-12-19T14:38:07.89668Z"
+        }
+      ],
+      "status": 0,
+      "price": 15000,
+      "deliveryPrice": 5000,
+      "totalPrice": 20000,
+      "id": "7d1286db-296e-4a1e-b4e8-d06f83afb6fe",
+      "creationDate": "2023-12-19T14:38:07.896153Z"
+    },
+    {
+      "phone": 0,
+      "userId": "de797047-acbf-4d42-9d74-6b064afef397",
+      "canShare": true,
+      "address": {
+        "governorate": null,
+        "city": "string",
+        "state": "string",
+        "phone": 0,
+        "latitude": 0,
+        "longitude": 0,
+        "id": "fa944596-dff1-4baa-8e4b-df37821a5bd4",
+        "creationDate": "2023-12-19T13:13:57.424441Z"
+      },
+      "note": "string",
+      "quantity": 0,
+      "orderItems": [
+        {
+          "finalImage": null,
+          "quantity": 1,
+          "productId": null,
+          "color": "string",
+          "colorId": "50a65885-853a-42c0-a4b8-2b6374bc5b5d",
+          "size": null,
+          "sizeId": null,
+          "product": null,
+          "printComponents": [],
+          "template": {
+            "id": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5",
+            "name": "string",
+            "description": "string",
+            "images": [
+              "string"
+            ],
+            "categoryId": "80ea4ddb-ca23-474c-810d-feba575af8f5",
+            "price": 15000,
+            "likes": 0,
+            "isLiked": false,
+            "categoryName": "string",
+            "sizes": [
+              {
+                "sizeText": "string",
+                "productId": null,
+                "colors": [
+                  {
+                    "id": "50a65885-853a-42c0-a4b8-2b6374bc5b5d",
+                    "colorText": "string",
+                    "sizeId": "8238506d-9efc-46a1-b825-5bdf525bedc0",
+                    "frontImage": "string",
+                    "quantity": 10,
+                    "creationDate": "2023-12-19T14:07:35.528156Z"
+                  }
+                ],
+                "id": "8238506d-9efc-46a1-b825-5bdf525bedc0",
+                "creationDate": "2023-12-19T14:07:35.519875Z"
+              }
+            ],
+            "quantity": 10,
+            "components": [
+              {
+                "name": null,
+                "value": null,
+                "x": 0,
+                "y": 0,
+                "z": 0,
+                "templateId": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5"
+              }
+            ],
+            "deleted": false,
+            "creationDate": "2023-12-19T14:07:35.518735Z"
+          },
+          "templateId": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5",
+          "id": "8b1dae09-7a84-447f-91bf-ad61b775b67f",
+          "creationDate": "2023-12-19T14:36:54.555768Z"
+        }
+      ],
+      "status": 0,
+      "price": 15000,
+      "deliveryPrice": 5000,
+      "totalPrice": 20000,
+      "id": "0414423f-955a-4814-83af-9d63a297f0bc",
+      "creationDate": "2023-12-19T14:36:54.555254Z"
+    },
+    {
+      "phone": 0,
+      "userId": "de797047-acbf-4d42-9d74-6b064afef397",
+      "canShare": true,
+      "address": {
+        "governorate": null,
+        "city": "string",
+        "state": "string",
+        "phone": 0,
+        "latitude": 0,
+        "longitude": 0,
+        "id": "fa944596-dff1-4baa-8e4b-df37821a5bd4",
+        "creationDate": "2023-12-19T13:13:57.424441Z"
+      },
+      "note": "string",
+      "quantity": 0,
+      "orderItems": [
+        {
+          "finalImage": null,
+          "quantity": 1,
+          "productId": null,
+          "color": "string",
+          "colorId": "50a65885-853a-42c0-a4b8-2b6374bc5b5d",
+          "size": null,
+          "sizeId": null,
+          "product": null,
+          "printComponents": [],
+          "template": {
+            "id": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5",
+            "name": "string",
+            "description": "string",
+            "images": [
+              "string"
+            ],
+            "categoryId": "80ea4ddb-ca23-474c-810d-feba575af8f5",
+            "price": 15000,
+            "likes": 0,
+            "isLiked": false,
+            "categoryName": "string",
+            "sizes": [
+              {
+                "sizeText": "string",
+                "productId": null,
+                "colors": [
+                  {
+                    "id": "50a65885-853a-42c0-a4b8-2b6374bc5b5d",
+                    "colorText": "string",
+                    "sizeId": "8238506d-9efc-46a1-b825-5bdf525bedc0",
+                    "frontImage": "string",
+                    "quantity": 10,
+                    "creationDate": "2023-12-19T14:07:35.528156Z"
+                  }
+                ],
+                "id": "8238506d-9efc-46a1-b825-5bdf525bedc0",
+                "creationDate": "2023-12-19T14:07:35.519875Z"
+              }
+            ],
+            "quantity": 10,
+            "components": [
+              {
+                "name": null,
+                "value": null,
+                "x": 0,
+                "y": 0,
+                "z": 0,
+                "templateId": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5"
+              }
+            ],
+            "deleted": false,
+            "creationDate": "2023-12-19T14:07:35.518735Z"
+          },
+          "templateId": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5",
+          "id": "3ed6ecbb-3587-43bd-9906-ae217cac9c10",
+          "creationDate": "2023-12-19T14:34:30.863119Z"
+        }
+      ],
+      "status": 0,
+      "price": 15000,
+      "deliveryPrice": 5000,
+      "totalPrice": 20000,
+      "id": "60dd7c59-0cbb-4c57-b46b-87c89990970e",
+      "creationDate": "2023-12-19T14:34:30.863117Z"
+    },
+    {
+      "phone": 0,
+      "userId": "de797047-acbf-4d42-9d74-6b064afef397",
+      "canShare": true,
+      "address": {
+        "governorate": null,
+        "city": "string",
+        "state": "string",
+        "phone": 0,
+        "latitude": 0,
+        "longitude": 0,
+        "id": "fa944596-dff1-4baa-8e4b-df37821a5bd4",
+        "creationDate": "2023-12-19T13:13:57.424441Z"
+      },
+      "note": "string",
+      "quantity": 0,
+      "orderItems": [
+        {
+          "finalImage": null,
+          "quantity": 1,
+          "productId": null,
+          "color": "string",
+          "colorId": "50a65885-853a-42c0-a4b8-2b6374bc5b5d",
+          "size": null,
+          "sizeId": null,
+          "product": null,
+          "printComponents": [],
+          "template": {
+            "id": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5",
+            "name": "string",
+            "description": "string",
+            "images": [
+              "string"
+            ],
+            "categoryId": "80ea4ddb-ca23-474c-810d-feba575af8f5",
+            "price": 15000,
+            "likes": 0,
+            "isLiked": false,
+            "categoryName": "string",
+            "sizes": [
+              {
+                "sizeText": "string",
+                "productId": null,
+                "colors": [
+                  {
+                    "id": "50a65885-853a-42c0-a4b8-2b6374bc5b5d",
+                    "colorText": "string",
+                    "sizeId": "8238506d-9efc-46a1-b825-5bdf525bedc0",
+                    "frontImage": "string",
+                    "quantity": 10,
+                    "creationDate": "2023-12-19T14:07:35.528156Z"
+                  }
+                ],
+                "id": "8238506d-9efc-46a1-b825-5bdf525bedc0",
+                "creationDate": "2023-12-19T14:07:35.519875Z"
+              }
+            ],
+            "quantity": 10,
+            "components": [
+              {
+                "name": null,
+                "value": null,
+                "x": 0,
+                "y": 0,
+                "z": 0,
+                "templateId": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5"
+              }
+            ],
+            "deleted": false,
+            "creationDate": "2023-12-19T14:07:35.518735Z"
+          },
+          "templateId": "bf2b815b-8601-41b7-9bf9-5d92fd7305a5",
+          "id": "2de55d8f-f0db-471c-a18b-6460ddc6e396",
+          "creationDate": "2023-12-19T14:32:52.37924Z"
+        }
+      ],
+      "status": 0,
+      "price": 0,
+      "deliveryPrice": 5000,
+      "totalPrice": 5000,
+      "id": "ca4b65a0-41ea-442a-9b0f-9984a139c458",
+      "creationDate": "2023-12-19T14:32:52.379239Z"
+    },
+    {
+      "phone": 0,
+      "userId": "de797047-acbf-4d42-9d74-6b064afef397",
+      "canShare": true,
+      "address": {
+        "governorate": null,
+        "city": "string",
+        "state": "string",
+        "phone": 0,
+        "latitude": 0,
+        "longitude": 0,
+        "id": "fa944596-dff1-4baa-8e4b-df37821a5bd4",
+        "creationDate": "2023-12-19T13:13:57.424441Z"
+      },
+      "note": "string",
+      "quantity": 0,
+      "orderItems": [
+        {
+          "finalImage": null,
+          "quantity": 0,
+          "productId": "53eb0c5b-b752-43ca-9063-f63ad9069b62",
+          "color": "string",
+          "colorId": "fd77b5ca-1923-4eab-8d92-60f181fb79ed",
+          "size": null,
+          "sizeId": null,
+          "product": {
+            "id": "53eb0c5b-b752-43ca-9063-f63ad9069b62",
+            "name": "string",
+            "description": "string",
+            "images": [
+              "http://192.168.1.48:5051/string"
+            ],
+            "categoryId": "80ea4ddb-ca23-474c-810d-feba575af8f5",
+            "price": 0,
+            "likes": 0,
+            "isLiked": false,
+            "categoryName": "string",
+            "sizes": [
+              {
+                "sizeText": "string",
+                "productId": "53eb0c5b-b752-43ca-9063-f63ad9069b62",
+                "colors": [
+                  {
+                    "id": "fd77b5ca-1923-4eab-8d92-60f181fb79ed",
+                    "colorText": "string",
+                    "sizeId": "b78f8c8e-3492-4574-9b63-727524022938",
+                    "frontImage": "string",
+                    "quantity": 19,
+                    "creationDate": "2023-12-19T13:14:20.36647Z"
+                  }
+                ],
+                "id": "b78f8c8e-3492-4574-9b63-727524022938",
+                "creationDate": "2023-12-19T13:14:20.357692Z"
+              }
+            ],
+            "quantity": 19,
+            "creationDate": "2023-12-19T13:14:20.356339Z"
+          },
+          "printComponents": [],
+          "template": {
+            "id": "ef60b753-9726-4951-8b48-46f1f361c912",
+            "name": "AAAA",
+            "description": "q5yyerf",
+            "images": [],
+            "categoryId": "80ea4ddb-ca23-474c-810d-feba575af8f5",
+            "price": 5000,
+            "likes": 0,
+            "isLiked": false,
+            "categoryName": "string",
+            "sizes": [],
+            "quantity": 0,
+            "components": [],
+            "deleted": false,
+            "creationDate": "2023-12-19T16:45:38Z"
+          },
+          "templateId": "ef60b753-9726-4951-8b48-46f1f361c912",
+          "id": "23eb5530-a4e9-42e9-8f0b-7c4ed45f3d8a",
+          "creationDate": "2023-12-19T13:46:06.259387Z"
+        }
+      ],
+      "status": 0,
+      "price": 0,
+      "deliveryPrice": 5000,
+      "totalPrice": 5000,
+      "id": "e0a1d80d-ff2c-4a59-8545-8066438acd20",
+      "creationDate": "2023-12-19T13:46:06.259384Z"
+    },
+    {
+      "phone": 0,
+      "userId": "de797047-acbf-4d42-9d74-6b064afef397",
+      "canShare": true,
+      "address": {
+        "governorate": null,
+        "city": "string",
+        "state": "string",
+        "phone": 0,
+        "latitude": 0,
+        "longitude": 0,
+        "id": "fa944596-dff1-4baa-8e4b-df37821a5bd4",
+        "creationDate": "2023-12-19T13:13:57.424441Z"
+      },
+      "note": "string",
+      "quantity": 0,
+      "orderItems": [
+        {
+          "finalImage": "string",
+          "quantity": 0,
+          "productId": "53eb0c5b-b752-43ca-9063-f63ad9069b62",
+          "color": "string",
+          "colorId": "fd77b5ca-1923-4eab-8d92-60f181fb79ed",
+          "size": null,
+          "sizeId": null,
+          "product": {
+            "id": "53eb0c5b-b752-43ca-9063-f63ad9069b62",
+            "name": "string",
+            "description": "string",
+            "images": [
+              "http://192.168.1.48:5051/string"
+            ],
+            "categoryId": "80ea4ddb-ca23-474c-810d-feba575af8f5",
+            "price": 0,
+            "likes": 0,
+            "isLiked": false,
+            "categoryName": "string",
+            "sizes": [
+              {
+                "sizeText": "string",
+                "productId": "53eb0c5b-b752-43ca-9063-f63ad9069b62",
+                "colors": [
+                  {
+                    "id": "fd77b5ca-1923-4eab-8d92-60f181fb79ed",
+                    "colorText": "string",
+                    "sizeId": "b78f8c8e-3492-4574-9b63-727524022938",
+                    "frontImage": "string",
+                    "quantity": 19,
+                    "creationDate": "2023-12-19T13:14:20.36647Z"
+                  }
+                ],
+                "id": "b78f8c8e-3492-4574-9b63-727524022938",
+                "creationDate": "2023-12-19T13:14:20.357692Z"
+              }
+            ],
+            "quantity": 19,
+            "creationDate": "2023-12-19T13:14:20.356339Z"
+          },
+          "printComponents": [
+            {
+              "name": "string",
+              "type": 0,
+              "value": "string",
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "id": "64d76eb7-e650-41f5-a9bf-2654aada96c9",
+              "creationDate": "2023-12-19T13:35:52.008206Z"
+            }
+          ],
+          "template": null,
+          "templateId": null,
+          "id": "234a2c05-5530-4e89-8054-08af79480b3b",
+          "creationDate": "2023-12-19T13:35:52.008204Z"
+        }
+      ],
+      "status": 0,
+      "price": 0,
+      "deliveryPrice": 5000,
+      "totalPrice": 5000,
+      "id": "a6a26d18-8bb6-4825-9c2a-a6dbf28917ab",
+      "creationDate": "2023-12-19T13:35:52.0082Z"
+    }
+  ],
+  "pagesCount": 1,
+  "currentPage": 1,
+  "type": "OrderDto"
+}
